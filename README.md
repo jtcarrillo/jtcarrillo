@@ -6,11 +6,11 @@
 Hey there 👋
 I'm Justin, a research computational engineer that specializes in parallel computing, computer programming, numerical modeling, machine learning, and physics based ray tracing. 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on high performance computing for computational modeling of autonomy systems within virtual environments and investingating the effects of physics-based simulated data for machine learning applications. 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C++ High Performance; Machine Learning with SkiKit-Learn, Keras, & Tensorflow; and Physically Based Rendering. 
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Investigations on the Effects of Synthetic Training for machine learning algorithms. 
 
 
 ## &#x1f4c8; GitHub Stats
