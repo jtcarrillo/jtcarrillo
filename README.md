@@ -2,6 +2,7 @@
 [![Justin's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/jtcarrillo)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jtcarrillo)
+
 Hey there 👋
 I'm Justin, a research computational engineer that specializes in parallel computing, computer programming, numerical modeling, machine learning, and physics based ray tracing. 
 
@@ -27,8 +28,15 @@ I'm Justin, a research computational engineer that specializes in parallel compu
 <br>
 <br>
 
+## 💼 Skills
+
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
+
 
 <!--
+
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+
 **jtcarrillo/jtcarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
