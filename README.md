@@ -30,7 +30,7 @@ I'm Justin, a research computational engineer that specializes in parallel compu
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
 
 
 <!--
