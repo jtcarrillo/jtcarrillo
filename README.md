@@ -1,7 +1,7 @@
 
-[![Justin's GitHub Banner](./assets/GitHubHeader.png)](www.linkedin.com/in/jtcarrillo)
+[![Justin's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/jtcarrillo)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/jtcarrillo)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jtcarrillo)
 ### Hi there 👋
 
 <!--
