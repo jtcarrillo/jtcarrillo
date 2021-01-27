@@ -10,7 +10,7 @@ I'm Justin, a research computational engineer that specializes in parallel compu
 
 - 🌱 I’m currently learning C++ High Performance; Machine Learning with SkiKit-Learn, Keras, & Tensorflow; and Physically Based Rendering. 
 
-- 👯 I’m looking to collaborate on Investigations on the Effects of Synthetic Training for machine learning algorithms. 
+- 👯 I’m looking to collaborate on investigations on the effects of synthetic training for machine learning algorithms. 
 
 
 ## &#x1f4c8; GitHub Stats
@@ -47,6 +47,7 @@ I'm Justin, a research computational engineer that specializes in parallel compu
 ![](https://img.shields.io/badge/Software-Panda-informational?style=flat&logo=panda&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-Chrono-informational?style=flat&logo=chrono&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-Skikit-informational?style=flat&logo=skitkit&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Software-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=4AB197)
 
 <br>
 
@@ -58,6 +59,11 @@ I'm Justin, a research computational engineer that specializes in parallel compu
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GoogleTest-informational?style=flat&logo=googletest&logoColor=white&color=4AB197)
 
+<br>
+
+![](https://img.shields.io/badge/Skills-Algorithms-informational?style=flat&logo=algorithms&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Skills-Data\ Structures-informational?style=flat&logo=data\ structures&logoColor=white&color=4AB197)
+
 </details>
 
 <br>
@@ -68,14 +74,4 @@ https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
 **jtcarrillo/jtcarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
