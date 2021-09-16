@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jtcarrillo)
 
 Hey there 👋
-I'm Justin, a research computational engineer that specializes in parallel computing, computer programming, and physics-based raytracing with interests in numerical modeling and machine learning applications. 
+I'm Justin, a research computational engineer that specializes in parallel computing, computer programming, and physics-based raytracing with interests in numerical modeling, software engineering, and  machine learning applications. 
 
 - 🔭 I’m currently working on high performance computing for computational modeling of autonomy systems within virtual environments and investigating the effects of physics-based simulated data for autonomy and machine learning applications. 
 
