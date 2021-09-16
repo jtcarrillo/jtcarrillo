@@ -8,7 +8,7 @@ I'm Justin, a research computational engineer that specializes in parallel compu
 
 - 🔭 I’m currently working on high performance computing for computational modeling of autonomy systems within virtual environments and investigating the effects of physics-based simulated data for autonomy and machine learning applications. 
 
-- 🌱 I’m currently learning Test-Driven Development; C++ High Performance; Machine Learning with SkiKit-Learn, Keras, & Tensorflow; and Physically Based Rendering. 
+- 🌱 I’m currently learning Test-Driven Development; C++ High Performance; and Machine Learning with SkiKit-Learn, Keras, & Tensorflow.. 
 
 
 ## &#x1f4c8; GitHub Stats
